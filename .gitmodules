@@ -1,0 +1,3 @@
+[submodule "vagrant-ansible-appserver"]
+	path = vagrant-ansible-appserver
+	url = https://github.com/cshuo/vagrant-ansible-appserver.git
